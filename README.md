@@ -1,4 +1,4 @@
-Hi, I’m Bea! I’m interested in Machine Learning, Deep Learning, NLP. But I love dev as well. Currently learning Python and R, and refreshing some web dev knowledge.
+Hi, I’m Bea! I’m interested in Machine Learning, Deep Learning, NLP. Currently learning Python and R, and refreshing some web dev knowledge.
 
 
 <!---
